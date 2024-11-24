@@ -1,0 +1,20 @@
+.admin {
+  display: flex;
+  &__div {
+    width: 300px;
+    height: 117vh;
+    background-color: rgb(115, 118, 123);
+  }
+  &__outlet {
+    flex: 1;
+  }
+  &__nav {
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-bottom: 12px;
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}

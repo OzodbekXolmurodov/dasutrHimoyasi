@@ -1,0 +1,27 @@
+.prodacts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  &__main {
+    width: 245px;
+    margin-bottom: 50px;
+  }
+  &__img {
+    width: 200px;
+    margin-bottom: 30px;
+  }
+  &__h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  &__p {
+    color: rgba(26, 26, 26, 0.752);
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  &__p3 {
+    color: black;
+    font-size: 18px;
+  }
+}
