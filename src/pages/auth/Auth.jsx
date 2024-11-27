@@ -10,3 +10,7 @@ const Auth = () => {
 };
 
 export default Auth;
+
+// login ------------------ sophiab
+
+// password --------------- sophiabpass
